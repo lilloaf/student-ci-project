@@ -14,3 +14,4 @@ A small Python project used to demonstrate a Jenkins CI pipeline (CMSC 426, In-C
 
 ## CI
 Jenkins job `Student-CI-Project` pulls this repository, runs the tests, and marks the build failed if any test fails.
+Demo: CI pipeline verified.
